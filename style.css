@@ -1,3 +1,4 @@
+/* Common styles */
 * {
   margin: 0;
   padding: 0;
@@ -32,7 +33,9 @@ html {
   box-shadow: 0 1rem 3rem var(--grey-color);
   overflow: hidden;
 }
+/* End of common styles */
 
+/* Header */
 .header {
   width: 100%;
   height: calc(100vh - 7rem);
@@ -157,6 +160,31 @@ html {
     opacity: 1;
   }
 }
+/* End of header */
+
+/* Popular Tours */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* End of popular tours */
 
 
 
